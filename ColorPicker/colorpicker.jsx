@@ -12,7 +12,7 @@ function ColorPicker() {
       />
 
       <div
-        style={{ backgroundColor: color, height: "100px", widht: "100px" }}
+        style={{ backgroundColor: color, height: "100px", width: "100px" }}
       ></div>
     </>
   );
