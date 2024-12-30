@@ -5,7 +5,7 @@ const Calculator = () => {
   const calculation = () => {
     setData(eval(data).toString());
   };
- 
+
   const remove = () => {
     setData(data.slice(0, -1));
   };
